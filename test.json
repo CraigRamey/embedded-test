@@ -1,0 +1,470 @@
+{
+  "stryker-corporation": {
+    "masterCompanyId": 353,
+    "industryId": 2016
+  },
+  "j-m-family-enterprises-inc": {
+    "masterCompanyId": 20873,
+    "industryId": 2014
+  },
+  "mars-incorporated": {
+    "masterCompanyId": 16718,
+    "industryId": 2008
+  },
+  "hilcorp": {
+    "masterCompanyId": 9498,
+    "industryId": 2005
+  },
+  "concho-resources": {
+    "masterCompanyId": 38691,
+    "industryId": 2005
+  },
+  "arthrex-inc": {
+    "masterCompanyId": 38693,
+    "industryId": 2009
+  },
+  "graco-inc": {
+    "masterCompanyId": 6303,
+    "industryId": 2014
+  },
+  "schneider-electric": {
+    "masterCompanyId": 5766,
+    "industryId": 2005
+  },
+  "ameren-corporation": {
+    "masterCompanyId": 6429,
+    "industryId": 2005
+  },
+  "reynolds-american-inc": {
+    "masterCompanyId": 38696,
+    "industryId": 2018
+  },
+  "axis-communications-inc": {
+    "masterCompanyId": 2715,
+    "industryId": 2012
+  },
+  "fona-international-inc": {
+    "masterCompanyId": 9005,
+    "industryId": 2008
+  },
+  "foh-inc": {
+    "masterCompanyId": 38692,
+    "industryId": 2010
+  },
+  "zpower-llc": {
+    "masterCompanyId": 5791,
+    "industryId": 2016
+  },
+  "monster-transmission-and-performance": {
+    "masterCompanyId": 38745,
+    "industryId": 2014
+  },
+  "powerblanket": {
+    "masterCompanyId": 38748,
+    "industryId": 2014
+  },
+  "radio-systems-corporation": {
+    "masterCompanyId": 38698,
+    "industryId": 2018
+  },
+  "premier-nutrition-corporation": {
+    "masterCompanyId": 38746,
+    "industryId": 2008
+  },
+  "niagara-conservation": {
+    "masterCompanyId": 38699,
+    "industryId": 2005
+  },
+  "a-1-truck-equipment-inc": {
+    "masterCompanyId": 38747,
+    "industryId": 2014
+  },
+  "hilton": {
+    "masterCompanyId": 4223,
+    "industryId": 2010
+  },
+  "ultimate-software": {
+    "masterCompanyId": 124,
+    "industryId": 2006
+  },
+  "wegmans-food-markets-inc": {
+    "masterCompanyId": 36973,
+    "industryId": 2008
+  },
+  "cooley-llp": {
+    "masterCompanyId": 21106,
+    "industryId": 2013
+  },
+  "texas-health-resources": {
+    "masterCompanyId": 7213,
+    "industryId": 2011
+  },
+  "encompass-health-home-health-and-hospice": {
+    "masterCompanyId": 21418,
+    "industryId": 2011
+  },
+  "salesforce": {
+    "masterCompanyId": 351,
+    "industryId": 2006
+  },
+  "hubspot": {
+    "masterCompanyId": 8439,
+    "industryId": 2006
+  },
+  "navy-federal-credit-union": {
+    "masterCompanyId": 9347,
+    "industryId": 2007
+  },
+  "workday": {
+    "masterCompanyId": 4360,
+    "industryId": 2006
+  },
+  "publix-super-markets-inc": {
+    "masterCompanyId": 6445,
+    "industryId": 2018
+  },
+  "comcast-nbcuniversal": {
+    "masterCompanyId": 2372,
+    "industryId": 2015
+  },
+  "orrick": {
+    "masterCompanyId": 3209,
+    "industryId": 2013
+  },
+  "covermymeds": {
+    "masterCompanyId": 38749,
+    "industryId": 2012
+  },
+  "cisco": {
+    "masterCompanyId": 4480,
+    "industryId": 2021
+  },
+  "primelending": {
+    "masterCompanyId": 5181,
+    "industryId": 2007
+  },
+  "progressive-insurance": {
+    "masterCompanyId": 6501,
+    "industryId": 2007
+  },
+  "kimpton-hotels-and-restaurants": {
+    "masterCompanyId": 21054,
+    "industryId": 2010
+  },
+  "marriott-international-inc": {
+    "masterCompanyId": 8501,
+    "industryId": 2010
+  },
+  "hyatt-hotels-corporation": {
+    "masterCompanyId": 6486,
+    "industryId": 2010
+  },
+  "insight-global-llc": {
+    "masterCompanyId": 4528,
+    "industryId": 2019
+  },
+  "zillow-group": {
+    "masterCompanyId": 8388,
+    "industryId": 2003
+  },
+  "david-weekley-homes": {
+    "masterCompanyId": 21417,
+    "industryId": 2017
+  },
+  "hulu": {
+    "masterCompanyId": 9211,
+    "industryId": 2015
+  },
+  "kimley-horn": {
+    "masterCompanyId": 1103,
+    "industryId": 2020
+  },
+  "american-express": {
+    "masterCompanyId": 16677,
+    "industryId": 2007
+  },
+  "intuit-inc": {
+    "masterCompanyId": 16641,
+    "industryId": 2006
+  },
+  "baptist-health-south-florida": {
+    "masterCompanyId": 5797,
+    "industryId": 2011
+  },
+  "t-mobile-us-inc": {
+    "masterCompanyId": 2421,
+    "industryId": 2021
+  },
+  "new-american-funding": {
+    "masterCompanyId": 7391,
+    "industryId": 2007
+  },
+  "baycare-health-system-inc": {
+    "masterCompanyId": 9296,
+    "industryId": 2011
+  },
+  "plante-moran": {
+    "masterCompanyId": 5051,
+    "industryId": 2013
+  },
+  "bell-bank": {
+    "masterCompanyId": 6891,
+    "industryId": 2007
+  },
+  "cornerstone-home-lending-inc": {
+    "masterCompanyId": 38702,
+    "industryId": 2007
+  },
+  "alston-and-bird-llp": {
+    "masterCompanyId": 3400,
+    "industryId": 2013
+  },
+  "abbvie": {
+    "masterCompanyId": 16705,
+    "industryId": 2016
+  },
+  "deloitte": {
+    "masterCompanyId": 28206,
+    "industryId": 2002
+  },
+  "burlington-stores-inc": {
+    "masterCompanyId": 372,
+    "industryId": 2018
+  },
+  "allianz-life-insurance-company-of-north-america": {
+    "masterCompanyId": 5175,
+    "industryId": 2007
+  },
+  "southern-ohio-medical-center": {
+    "masterCompanyId": 3223,
+    "industryId": 2011
+  },
+  "bright-horizons-family-solutions": {
+    "masterCompanyId": 8974,
+    "industryId": 2004
+  },
+  "crowe": {
+    "masterCompanyId": 9138,
+    "industryId": 2013
+  },
+  "veterans-united-home-loans": {
+    "masterCompanyId": 21415,
+    "industryId": 2007
+  },
+  "slalom-inc": {
+    "masterCompanyId": 3550,
+    "industryId": 2002
+  },
+  "jackson-healthcare": {
+    "masterCompanyId": 7059,
+    "industryId": 2019
+  },
+  "brightview-senior-living": {
+    "masterCompanyId": 38750,
+    "industryId": 2011
+  },
+  "splunk": {
+    "masterCompanyId": 2164,
+    "industryId": 2006
+  },
+  "sap-america-inc": {
+    "masterCompanyId": 21423,
+    "industryId": 2006
+  },
+  "camden-property-trust": {
+    "masterCompanyId": 4347,
+    "industryId": 2017
+  },
+  "chg-healthcare": {
+    "masterCompanyId": 9340,
+    "industryId": 2009
+  },
+  "american-fidelity-assurance-company": {
+    "masterCompanyId": 6676,
+    "industryId": 2007
+  },
+  "first-american-financial-corporation": {
+    "masterCompanyId": 24991,
+    "industryId": 2007
+  },
+  "atlassian": {
+    "masterCompanyId": 16615,
+    "industryId": 2012
+  },
+  "ryan-llc": {
+    "masterCompanyId": 506,
+    "industryId": 2007
+  },
+  "kpmg-llp": {
+    "masterCompanyId": 21416,
+    "industryId": 2007
+  },
+  "sheetz-inc": {
+    "masterCompanyId": 19865,
+    "industryId": 2008
+  },
+  "exact-sciences-corp": {
+    "masterCompanyId": 2181,
+    "industryId": 2016
+  },
+  "third-federal-savings-and-loan": {
+    "masterCompanyId": 38751,
+    "industryId": 2007
+  },
+  "quicken-loans": {
+    "masterCompanyId": 6153,
+    "industryId": 2007
+  },
+  "usaa": {
+    "masterCompanyId": 8489,
+    "industryId": 2007
+  },
+  "pluralsight-inc": {
+    "masterCompanyId": 7009,
+    "industryId": 2012
+  },
+  "capital-one-financial-corporation": {
+    "masterCompanyId": 2443,
+    "industryId": 2007
+  },
+  "the-cheesecake-factory-incorporated": {
+    "masterCompanyId": 2413,
+    "industryId": 2010
+  },
+  "bank-of-america": {
+    "masterCompanyId": 16657,
+    "industryId": 2007
+  },
+  "delta-air-lines-inc": {
+    "masterCompanyId": 8454,
+    "industryId": 2022
+  },
+  "box-inc": {
+    "masterCompanyId": 2307,
+    "industryId": 2003
+  },
+  "alliance-data": {
+    "masterCompanyId": 16686,
+    "industryId": 2002
+  },
+  "world-wide-technology-llc": {
+    "masterCompanyId": 5179,
+    "industryId": 2020
+  },
+  "total-quality-logistics": {
+    "masterCompanyId": 7929,
+    "industryId": 2022
+  },
+  "credit-acceptance-corporation": {
+    "masterCompanyId": 4515,
+    "industryId": 2007
+  },
+  "cumberland-farms-inc": {
+    "masterCompanyId": 27009,
+    "industryId": 2014
+  },
+  "cottage-health": {
+    "masterCompanyId": 5491,
+    "industryId": 2011
+  },
+  "ernst-and-young-llp": {
+    "masterCompanyId": 1022,
+    "industryId": 2013
+  },
+  "knowbe4-inc": {
+    "masterCompanyId": 38752,
+    "industryId": 2012
+  },
+  "bamboohr": {
+    "masterCompanyId": 1047,
+    "industryId": 2006
+  },
+  "collaborative-solutions": {
+    "masterCompanyId": 38753,
+    "industryId": 2020
+  },
+  "roth-staffing-companies": {
+    "masterCompanyId": 38459,
+    "industryId": 2019
+  },
+  "child-trends": {
+    "masterCompanyId": 8050,
+    "industryId": 2004
+  },
+  "intuitive-research-and-technology-corporation": {
+    "masterCompanyId": 6038,
+    "industryId": 2001
+  },
+  "appfolio-inc": {
+    "masterCompanyId": 4163,
+    "industryId": 2006
+  },
+  "evergreen-home-loans": {
+    "masterCompanyId": 38754,
+    "industryId": 2007
+  },
+  "gusto": {
+    "masterCompanyId": 17368,
+    "industryId": 2006
+  },
+  "greenspoon-marder-llp": {
+    "masterCompanyId": 38755,
+    "industryId": 2013
+  },
+  "asana": {
+    "masterCompanyId": 6903,
+    "industryId": 2006
+  },
+  "betterup": {
+    "masterCompanyId": 19775,
+    "industryId": 2002
+  },
+  "esl-federal-credit-union": {
+    "masterCompanyId": 38706,
+    "industryId": 2007
+  },
+  "care-to-stay-home": {
+    "masterCompanyId": 38756,
+    "industryId": 2009
+  },
+  "msu-federal-credit-union": {
+    "masterCompanyId": 38710,
+    "industryId": 2007
+  },
+  "point-b-inc": {
+    "masterCompanyId": 38705,
+    "industryId": 2002
+  },
+  "greenhouse": {
+    "masterCompanyId": 1570,
+    "industryId": 2012
+  },
+  "acorda-therapeutics": {
+    "masterCompanyId": 6207,
+    "industryId": 2016
+  },
+  "vettery": {
+    "masterCompanyId": 19567,
+    "industryId": 2012
+  },
+  "the-trade-desk": {
+    "masterCompanyId": 20702,
+    "industryId": 2006
+  },
+  "wp-engine": {
+    "masterCompanyId": 3053,
+    "industryId": 2020
+  },
+  "assistance-home-care": {
+    "masterCompanyId": 38757,
+    "industryId": 2011
+  },
+  "salsify": {
+    "masterCompanyId": 4533,
+    "industryId": 2006
+  },
+  "grow-financial-federal-credit-union": {
+    "masterCompanyId": 18078,
+    "industryId": 2007
+  }
+}
